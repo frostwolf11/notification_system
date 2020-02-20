@@ -2,5 +2,5 @@ ENVIRONMENT=production
 to=recruit_testing@mailinator.com
 bcc=bcc_testing_recruit@mailinator.com
 cc=cc_testing_recruit@mailinator.com
-origin=hr
+origin=recruit
 database= your mongo uri
